@@ -1,0 +1,6 @@
+0   Maya                 01/02/2000      HaNoi           160,7    70       20a10060   hou        2020     8
+1   Jenney               06/01/2004      HaNoi           164      50       20a100w2   hauni      2021     9
+2   Jobert               01/01/1999      London          180,7    70       20a17060   fpt        2019     8
+3   Jacket Hom           01/10/2002      New York        190,7    90       20a1900    hou        2020     7
+4   James De             12/01/2003      Ho Chi Minh     160,7    90       20a1kds0   tmu        2022     8
+5   Monica Fres          01/05/2005      HaNoi           152      40       20a10uu0   hou        2022     5
